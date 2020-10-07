@@ -1,0 +1,43 @@
+
+body {
+    font-family: 'Fjalla One', sans-serif;
+    background-color: rgb(16, 126, 153);
+}
+
+h1, h2 {
+    color: purple;
+    text-align: center;
+    font-weight: bold;
+}
+
+table{
+    border: 2px solid darkblue;
+    width: 850px;
+    margin: auto;
+    background-color: lightgrey;
+
+}
+
+th{
+    text-align: center;
+    background-color: mediumslateblue;
+    margin:0 auto;
+
+}
+td{
+    border-top: 2px solid darkblue;
+    text-align: center;
+    color: purple;
+    
+
+}
+
+.code {
+    font-family: 'Sansita Swashed', cursive;
+    background-color: mediumspringgreen;
+}
+
+.css-code{
+    font-family: 'Indie Flower', cursive;
+    background-color: indianred;
+}
